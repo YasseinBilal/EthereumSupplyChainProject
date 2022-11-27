@@ -48,6 +48,13 @@ The Goerli transaction hash is: `0x05f47b685a2bba6d4206d9f99da80d317b2ca7f33b47a
 
 ## Notes
 
+Node version `v16.16.0`
+
+Truffle version `v5.5.24`
+
+web3 version `^1.3.0`
+
+
 Goerli network is used for deployment instead on Rinkbey since Rinkeby network is deprecated.
 
 
